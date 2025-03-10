@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+body {
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(rgb(27, 41, 169), rgb(40, 176, 25));
+  background-size: cover;
+  background-position: center;
+}
